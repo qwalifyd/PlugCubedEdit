@@ -257,7 +257,7 @@ define('fefed4/b98817', ['fefed4/d778d3', 'fefed4/d10ed2', 'lang/Lang'], functio
         };
     }
 
-    $.getJSON('https://d1rfegul30378.cloudfront.net/titles.json',
+    $.getJSON('https://rawgit.com/qwalifyd/PlugCubedEdit/Creators.md',
         /**
          * @param {{developer: Array, sponsor: Array, special: Array, ambassador: Array, donator: {diamond: Array, platinum: Array, gold: Array, silver: Array, bronze: Array}, patreon: {diamond: Array, platinum: Array, gold: Array, silver: Array, bronze: Array}}} data
          */
